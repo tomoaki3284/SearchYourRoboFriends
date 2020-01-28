@@ -6,7 +6,7 @@ import './index.css';
 // import Hello from './Hello.js';
 // import CardList from "./CardList";
 import * as serviceWorker from './serviceWorker';
-import App from "./App";
+import App from "./containers/App";
 // import { robots } from './Robots'; // why curly brackets? 
 // Because it's export(not export default). Thay can have multiple exports
 // In that case {robots, cats, etc}. It's multi exports, but Robots happens
