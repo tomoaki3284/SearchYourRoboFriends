@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+This project is for practicing JavaScript framework React
+
 ## Available Scripts
 
 In the project directory, you can run:
